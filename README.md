@@ -1,3 +1,3 @@
 # JeeteshRepo
 This is my first Repository
-Author: Jeetesh Sharma
+Author: Jeetesh Sharma Newgen
